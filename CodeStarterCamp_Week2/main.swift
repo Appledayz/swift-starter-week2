@@ -8,5 +8,5 @@
 
 import Foundation
 
-print("Hello, World!")
-
+saveNewLottoNumbers(saveCount: 5)
+printLottoNumbers(round: 2)
